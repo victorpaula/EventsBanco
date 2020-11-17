@@ -1,3 +1,4 @@
+
 -- busca de usuarios a partir do id de perfil
 SELECT USUARIO.COD_PERFIL, USUARIO.NOME,
 PERFIL.COD_PERFIL, PERFIL.DESCRICAO
